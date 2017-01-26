@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloMondo</string>
+    <string name="Calculate">Calculate!</string>
+    <string name="Question">Date of birth</string>
+</resources>
